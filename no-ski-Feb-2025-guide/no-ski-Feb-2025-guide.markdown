@@ -8,11 +8,13 @@
 </div>
 
 ## 🗺️ Interactive Guide Map
+
 Explore all locations mentioned in this guide: [View Interactive Map →](https://maps.app.goo.gl/BH33HraRJyunhW9m7)
 
 ## 🏠 Accommodation
 
 ### Campiglio Panorama del Brenta
+
 - **Address**: Via Dente di Sella, 6, 38086 Pinzolo TN, Italy
 - **Location**: [View on Google Maps](https://www.google.com/maps?q=Via+Dente+di+Sella,+6,+38086+Pinzolo+TN,+Italy)
 - **Booking**: [View Property Details](https://www.booking.com/hotel/it/campiglio-panorama-del-brenta.html)
@@ -24,6 +26,7 @@ Explore all locations mentioned in this guide: [View Interactive Map →](https:
 Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the foot of the majestic **Dolomites** at an elevation of 770 meters. This region represents a fascinating blend of Italian and Austrian influences, visible in its architecture, cuisine, and local traditions.
 
 > **Quick Facts**:
+>
 > - Population: ~3,000 residents
 > - Location: Val Rendena valley
 > - Known for: Cultural heritage, gastronomy, and natural beauty
@@ -34,6 +37,7 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 ## 🏰 Historical & Cultural Sites
 
 ### Church of San Vigilio
+
 - **Built**: 10th century, renovated in 15th century
 - **Famous for**: "Danse Macabre" frescoes by Simone Baschenis (1539)
 - **Artistic Significance**: One of the Alps' most extraordinary medieval frescoes
@@ -48,6 +52,7 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 </div>
 
 ### Monument to the Cutlers
+
 - **Erected**: 1969
 - **Artist**: Local sculptor Claudio Trotter
 - **Historical Significance**: Honors Pinzolo's "moléte" (knife grinders)
@@ -56,12 +61,12 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - **Best Photo Time**: Morning light
 - **Location**: [View on Maps](https://maps.app.goo.gl/bhzQU3g3sMjY3E8N9)
 
-
 ---
 
 ## 🌲 Nature & Parks
 
 ### Adamello Brenta Nature Park
+
 - **Why Visit**: Largest protected area in Trentino featuring:
   - Glacial lakes
   - Alpine meadows
@@ -77,6 +82,7 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 </div>
 
 ### Nardis Waterfalls
+
 - **Why Visit**: One of Trentino's tallest waterfalls (130m)
 - **Features**:
   - Surrounded by lush forests
@@ -92,8 +98,9 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 </div>
 
 ### Lake Ritorto
+
 - **Why Visit**: Crystal-clear alpine lake with Dolomites views
-- **Best Activity**: 
+- **Best Activity**:
   - Lake circuit hiking
   - Photography
   - Peaceful nature walks
@@ -106,6 +113,7 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 </div>
 
 ### Val di Genova
+
 - **Why Visit**: Known as the "Valley of Waterfalls"
 - **Features**:
   - Glacial valley
@@ -122,6 +130,7 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 </div>
 
 ### Malga Ritorto
+
 - **Why Visit**: Traditional alpine farm experience
 - **Features**:
   - Grazing cows
@@ -143,8 +152,9 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 ### Must-Visit Producers
 
 #### 🧀 Caseificio Sociale di Pinzolo
+
 - **Specialty**: Trentingrana DOP & Spressa DOP
-- **Experience**: 
+- **Experience**:
   - Morning cheese-making demonstrations
   - Tasting sessions
   - Shop with local products
@@ -153,14 +163,14 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - [Book Visit →](https://maps.app.goo.gl/xpgp3zQnmGvNxfhF6)
 - **Location**: [View on Maps](https://maps.app.goo.gl/7xbgGihj4KxouZNj6)
 
-
 <div class="image-card">
     <img src="./images/Caseificio-Sociale-di-Pinzolo.jpg" alt="Traditional Cheese Making" />
     <em>Traditional cheese making at Caseificio Sociale di Pinzolo</em>
 </div>
 
 #### 🍷 Cantina Toblino
-- **Known For**: 
+
+- **Known For**:
   - Vino Santo (holy wine)
   - Nosiola grapes
   - Mountain wines
@@ -173,14 +183,14 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - [Reserve Tasting →](https://maps.app.goo.gl/mY1PdY27DJ1V5wQD9)
 - **Location**: [View on Maps](https://maps.app.goo.gl/K1tq6GVthrfY3k4D9)
 
-
 <div class="image-card">
     <img src="./images/Cantina-Toblino.jpg" alt="Wine Tasting Experience" />
     <em>Wine tasting experience at Cantina Toblino</em>
 </div>
 
 #### 🍫 Pasticceria Zaffiro
-- **Specialties**: 
+
+- **Specialties**:
   - Artisanal chocolates
   - Traditional Trentino pastries
   - Hot chocolate
@@ -192,11 +202,17 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - [Details →](https://www.pasticceria-zaffiro.it/)
 - **Location**: [View on Maps](https://maps.app.goo.gl/17LwTsRttaqAmPzX9)
 
+<div class="image-card">
+    <img src="./images/Pasticceria-Zaffiro.jpg" alt="pastries at Pasticceria Zaffiro" />
+    <em>pastries at Pasticceria Zaffiro</em>
+</div>
 
 ### Notable Restaurants
 
 #### In Madonna di Campiglio (15 min drive)
+
 ##### Chalet Fiat
+
 - **Cuisine**: Gourmet Alpine
 - **Altitude**: 2,104m
 - **Specialties**:
@@ -214,7 +230,8 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 ## 🏙️ Day Trips
 
 ### Trento (1 hour drive)
-- **Morning**: 
+
+- **Morning**:
   - Castello del Buonconsiglio (9:00-17:00)
   - MUSE Science Museum (10:00-18:00)
 - **Afternoon**:
@@ -231,6 +248,7 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 </div>
 
 ### Riva del Garda (1.5 hours drive)
+
 - **Highlights**:
   - Torre Apponale (climb for lake views)
   - Bastione di Riva (cable car access)
@@ -242,12 +260,12 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - [Lake Activities →](https://www.gardatrentino.it/en)
 - **Location**: [View on Maps](https://maps.app.goo.gl/BAUwpt9WoTiiAYov5)
 
-
 ---
 
 ## 💆‍♂️ Relaxation & Wellness
 
 ### QC Terme Dolomiti
+
 - **Facilities**:
   - 6 outdoor thermal pools
   - Finnish saunas
@@ -259,7 +277,6 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - [Book Experience →](https://www.qcterme.com/en/val-di-fassa/qc-terme-dolomiti/prices-opening)
 - **Location**: [View on Maps](https://maps.app.goo.gl/Fwy2tvb1RNgnv4ru9)
 
-
 <div class="image-card">
     <img src="images/QC-Terme-Dolomiti.jpg" />
     <em>Relaxing thermal pools with mountain views at QC Terme Dolomiti</em>
@@ -267,64 +284,14 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 
 ---
 
-
-## 🍷 Wine & Local Agriculture
-
-### Must-Visit Producers
-
-#### 🧀 Caseificio Sociale di Pinzolo
-- **Specialty**: Trentingrana DOP & Spressa DOP
-- **Experience**: 
-  - Morning cheese-making demonstrations
-  - Tasting sessions
-  - Shop with local products
-- **Winter Hours**: Mon-Sat 8:30-12:30, 15:30-19:00
-- **Tours**: Book 48h in advance
-- [Book Visit →](https://maps.app.goo.gl/xpgp3zQnmGvNxfhF6)
-- **Location**: [View on Maps](https://maps.app.goo.gl/7xbgGihj4KxouZNj6)
-
-<div class="image-card">
-    <img src="./images/Caseificio-Sociale-di-Pinzolo.jpg" alt="Traditional Cheese Making" />
-    <em>Traditional cheese making at Caseificio Sociale di Pinzolo</em>
-</div>
-
-#### 🍷 Cantina Toblino
-- **Known For**: 
-  - Vino Santo (holy wine)
-  - Nosiola grapes
-  - Mountain wines
-- **Offerings**:
-  - Guided cellar tours
-  - Wine tasting sessions
-  - Wine pairing workshops
-- **Winter Schedule**: Daily 10:00-18:00
-- **Languages**: Italian, English, German
-- [Reserve Tasting →](https://maps.app.goo.gl/mY1PdY27DJ1V5wQD9)
-- **Location**: [View on Maps](https://maps.app.goo.gl/K1tq6GVthrfY3k4D9)
-
-<div class="image-card">
-    <img src="./images/Cantina-Toblino.jpg" alt="Wine Tasting Experience" />
-    <em>Wine tasting experience at Cantina Toblino</em>
-</div>
-
-#### 🍫 Pasticceria Zaffiro
-- **Specialties**: 
-  - Artisanal chocolates
-  - Traditional Trentino pastries
-  - Hot chocolate
-- **Activities**:
-  - Chocolate making workshops
-  - Tasting sessions
-  - Take-home gift boxes
-- **Location**: Historic center of Trento
-- [Details →](https://www.pasticceria-zaffiro.it/)
-- **Location**: [View on Maps](https://maps.app.goo.gl/17LwTsRttaqAmPzX9)
+## 🍷 Food, Wine & Agriculture
 
 ### Wine Experiences
 
 #### Pisoni Winery
+
 - **Description**: Family-run winery specializing in traditional Trentino wines
-- **Specialties**: 
+- **Specialties**:
   - Teroldego
   - Vino Santo
 - **Experience**: Guided vineyard & cellar tours with tastings
@@ -332,8 +299,9 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - **Location**: [View on Maps](https://maps.app.goo.gl/QdmgJBqmkZH2kH7n8)
 
 #### Endrizzi Winery
+
 - **Established**: 1885
-- **Highlights**: 
+- **Highlights**:
   - Sustainable vineyards
   - Modern cellars
   - Diverse wine selection
@@ -349,7 +317,8 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 ### 🧀 Cheese Experiences
 
 #### Agritur Maso Pan
-- **Experience**: 
+
+- **Experience**:
   - Live cheese-making demonstrations
   - Farm animal interactions
   - Fresh dairy tastings
@@ -357,8 +326,9 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - **Location**: [View on Maps](https://maps.app.goo.gl/9mdnkRmMW8xmFoDm6)
 
 #### Caseificio Sociale Presanella
+
 - **Type**: Traditional dairy cooperative
-- **Offerings**: 
+- **Offerings**:
   - Guided production tours
   - Cheese tastings
   - Local product shop
@@ -373,8 +343,9 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 ### 🚜 Local Agricultural Experiences
 
 #### Agriturismo Dalla Natura la Salute
+
 - **Specialty**: Organic medicinal herbs
-- **Activities**: 
+- **Activities**:
   - Garden tours
   - Educational workshops
   - Natural product shop
@@ -382,8 +353,9 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - **Location**: [View on Maps](https://maps.app.goo.gl/ff2RhSEJjb1ML7mA6)
 
 #### Mieli Thun Beekeeping Farm
+
 - **Focus**: Nomadic beekeeping
-- **Experience**: 
+- **Experience**:
   - Hive visits
   - Honey production insights
   - Mono-floral honey tastings
@@ -391,7 +363,8 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 - **Location**: [View on Maps](https://maps.app.goo.gl/7bNN9CrguF2ip8d86)
 
 #### Agraria Riva del Garda
-- **Products**: 
+
+- **Products**:
   - High-quality olive oil
   - Local wines
 - **Activities**:
@@ -411,15 +384,18 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 ## 📱 Essential Information
 
 ### Emergency Contacts
+
 - **Emergency**: 112
 - **Mountain Rescue**: 118
 - **Tourist Office**: +39 0465 501007
 
 ### Transport
+
 - **Local Bus**: [Trentino Trasporti](https://www.trentinotrasporti.it/)
 - **Taxi Service**: +39 0465 440000
 
 ### Weather Resources
+
 - [Wheather Forecast →](https://www.accuweather.com/en/it/pinzolo/216268/weather-forecast/216268)
 - [Avalanche Bulletin →](https://avalanche.report/weather/measurements?sortValue=snow&sortDir=desc)
 - [Road Conditions →](https://www.viamichelin.com/maps/traffic/italy/trentino_south_tyrol/trento/pinzolo-38086)
@@ -431,6 +407,7 @@ Pinzolo is a charming town in the **Trentino-Alto Adige region**, nestled at the
 *Last updated: February 2024*
 
 > **Winter Travel Tips**:
+>
 > - 🎟️ Book experiences 48-72 hours in advance
 > - 🚗 Winter tires mandatory November-April
 > - 🌡️ Temperature ranges: -5°C to 10°C
